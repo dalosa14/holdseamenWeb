@@ -145,27 +145,15 @@ jQuery(document).ready(function(){
                 "enabled": true,
             },
             "dataProvider": [ 
-                {
-                    "token": "Marketing",
-                    "value": 5,
-                    "color": "#a4bbc7"
-                }, {
-                    "token": "Team",
-                    "value": 5,
-                    "color": "#6289a3",
-                }, {
-                    "token": "PancakeSwap",
-                    "value": 10,
+                 {
+                    "token": "FOR SALE",
+                    "value": 50,
                     "color": "#3e6e9c",
                 }, {
-                    "token": "Burned",
-                    "value": 70,
+                    "token": "BURNED TOKENS",
+                    "value": 50,
                     "color": "#1c2432"
-                }, {
-                    "token": "Exchanges",
-                    "value": 10,
-                    "color": "#00476C"
-                }
+                }, 
             ],
             "valueField": "value",
             "titleField": "token",
