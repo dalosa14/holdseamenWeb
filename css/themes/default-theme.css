@@ -2,11 +2,11 @@
 
 .default-theme ,
 .default-theme .crypto-section__content .btcwdgt-chart .btcwdgt-header{
-    background: rgb(30, 63, 90); /* Old browsers */
-    background: -moz-linear-gradient(45deg, rgb(30, 63, 90) 0%, rgb(41, 43, 138) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, rgb(30, 63, 90) 0%,rgb(41, 43, 138) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, rgb(30, 63, 90) 0%,rgb(41, 43, 138) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e3f5a', endColorstr='#2c2eb8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    background: rgb(51, 93, 128); /* Old browsers */
+    background: -moz-linear-gradient(45deg, rgb(30, 63, 90) 0%, rgb(139, 183, 219) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, rgb(30, 63, 90) 0%,rgb(139, 183, 219) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, rgb(30, 63, 90) 0%,rgb(139, 183, 219) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#335d80', endColorstr='#2c2eb8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 .default-theme .title span {
     background: rgb(53, 28, 163);
@@ -34,10 +34,10 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e63359', endColorstr='#f85068',GradientType=1 );
 }
 .default-theme .btn-primary {
-    background: rgb(31, 33, 156);
-    background: -moz-linear-gradient(45deg, rgb(31, 33, 156) 0%, rgb(28, 30, 136) 100%);
-    background: -webkit-linear-gradient(45deg, rgb(31, 33, 156) 0%,rgb(28, 30, 136) 100%);
-    background: linear-gradient(45deg, rgb(31, 33, 156) 0%,rgb(28, 30, 136) 100%);
+    background: rgb(43, 94, 114);
+    background: -moz-linear-gradient(45deg, rgb(43, 94, 114) 0%, rgb(28, 30, 136) 100%);
+    background: -webkit-linear-gradient(45deg, rgb(43, 94, 114) 0%,rgb(28, 30, 136) 100%);
+    background: linear-gradient(45deg, rgb(43, 94, 114) 0%,rgb(28, 30, 136) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9f36ab', endColorstr='#602a77',GradientType=1 );
 }
 .default-theme .team-section__member-meta .name {color: #f85068;}
